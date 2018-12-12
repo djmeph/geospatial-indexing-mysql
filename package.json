@@ -1,0 +1,26 @@
+{
+  "name": "geospatial-indexing-mysql",
+  "version": "1.0.0",
+  "description": "Example API for searching a geospatial index by radius.",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djmeph/geospatial-indexing-mysql.git"
+  },
+  "keywords": [
+    "geospatial",
+    "index",
+    "mongodb",
+    "nodejs",
+    "express"
+  ],
+  "author": "Norman Witte III",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djmeph/geospatial-indexing-mysql/issues"
+  },
+  "homepage": "https://github.com/djmeph/geospatial-indexing-mysql#readme"
+}
