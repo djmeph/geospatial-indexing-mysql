@@ -13,7 +13,7 @@
   "keywords": [
     "geospatial",
     "index",
-    "mongodb",
+    "mysql",
     "nodejs",
     "express"
   ],
